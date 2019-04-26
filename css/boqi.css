@@ -254,7 +254,7 @@ div>.p1{
 }
 .dt_nav{
 	width: 1349px;
-	
+	margin: 0 auto;
 	background: #F1C5F5;
 }
 .down_nav li,.dr{
@@ -757,6 +757,7 @@ div>.p1{
 	background-image: url(../img/img7231595305e41e14f.jpg);
 	background-repeat:no-repeat ;
 	background-size: 100% ;
+	margin: 0 auto;
 }
 .content_r{
 	width: 270px;
@@ -869,7 +870,7 @@ div>.p1{
 	height: 130px;
 	border-bottom: 1px solid #DDDDDD;
 	background-color: #F3F3F3;
-	
+	margin: 0 auto;
 }
 .buy_c{
 	width: 1190px;
@@ -1246,6 +1247,7 @@ div>.p1{
 	height: 280px;
 	background-color: #F3F3F3;
 	overflow: hidden;
+	margin: 0 auto;
 }
 .fc_t{
 	width: 990px;
@@ -1424,6 +1426,7 @@ div>.p1{
 .foot_down{
 	width: 1349px;
 	height: 173px;
+	margin: 0 auto;
 }
 .fd{
 	width: 990px;
